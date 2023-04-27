@@ -2,3 +2,44 @@
 La lingüística es la disciplina que se encarga del estudio científico del lenguaje. Esto incluye aspectos como la estructura de los sonidos (fonología), la estructura de las palabras (morfología), la estructura de las oraciones (sintaxis), el significado de las palabras y las oraciones (semántica), la forma en que se utiliza el lenguaje en situaciones reales (pragmática), la historia y la evolución del lenguaje (lingüística histórica) y la relación entre el lenguaje y la mente (psicolingüística).
 
 La lingüística se ocupa tanto del análisis descriptivo de las lenguas naturales como de la elaboración de teorías generales sobre el lenguaje y su uso. La investigación lingüística abarca una amplia variedad de temas, desde la adquisición del lenguaje en los niños hasta la descripción de lenguas poco conocidas, pasando por la creación de modelos computacionales del lenguaje y la aplicación del análisis lingüístico a campos como la traducción automática, la inteligencia artificial y la educación lingüística.
+El lenguaje, como objeto de estudio, puede resultar desconcertante dadas su complejidad y la intimidad que establecemos con él desde antes de adquirir consciencia. Sin embargo, esto no impide que podamos dividir su problemática en varias áreas, las cuales, incluso, pueden ser enfocadas de manera general (para todas las lenguas) o particular (para una lengua o familia de lenguas):
+
+El origen: ¿De dónde viene? ¿Existió una primera lengua? ¿Cuándo empezó a hablar el Ser Humano?Idioma bribri dialectos
+La evolución: ¿Qué factores influyen el cambio lingüístico? ¿Cómo nacen y mueren las lenguas?
+La adquisición: ¿Cómo los niños adquieren el Lenguaje? ¿Las estructuras lingüísticas tienen un orden según el cual se fijan a lo largo de nuestro desarrollo? ¿Cuál es? ¿Por qué? ¿Qué límites existen? ¿Qué factores influyen el proceso de adquisición de una lengua?
+El cerebro: ¿Qué áreas del cerebro se especializan en las funciones lingüísticas? ¿Cómo se codifica la gramática en términos neurológicos? ¿Podemos identificar empíricamente las funciones lingüísticas en el cerebro?
+La sociedad: ¿Hay variables sociales del lenguaje? ¿Cuáles son? ¿Varía geográficamente el lenguaje? ¿Cuáles son las variables culturales que condicionan el uso del lenguaje? ¿Tienen las mujeres y los hombres maneras diferentes de expresarse?
+La computación: ¿Es posible que una computadora pueda hablar o comprender el lenguaje natural? ¿Cómo podemos lograrlo? ¿Es posible extraer datos con lenguaje natural? ¿Cuáles son los mejores métodos para traducir automáticamente?
+A pesar de no ser exhaustiva, esta lista de problemas, estrechamente vinculados con la Ciencia Lingüística, permite perfilar una serie de subdisciplinas: Lingüística diacrónica, sociolingüística, etnolingüística, neurolingüística, psicolingüística y lingüística computacional. Detrás de todas ellas existe una concepción de la gramática y la manera en que debe ser estudiada, porque, en efecto, cada una establece grados de generalidad y especificidad, según las influencias de factores externos que sean admitidas. De ahí que todo lingüista debe tener una formación sólida en gramática, la cual se concibe ya sea como un conjunto de reglas que rige las combinaciones posibles de los elementos lingüísticos fundamentales y que producen primero la frase y luego el discurso, ya sea como un sistema de principios que posibilita conjuntos de reglas con identidad propia que dan lugar a cada uno de los idiomas conocidos. (En cada uno de los casos, siempre es posible establecer condiciones y filtros que mediatizan la producción lingüística.) Ahora bien, la gramática no es un bloque homogéneo, sino que más bien está integrada por varios dominios (o niveles, según la perspeciva), identificados por características estructurales y mecanismos de combinación distintivos:
+
+Espectrograma de las vocales inglesas i, u, ɑ. [http://commons.wikimedia.org/wiki/File:Spectrogram_-iua-.png]
+
+La fonética estudia las propiedades físicas del sonido en la producción del habla o en su percepción.
+La fonología se concentra en las propiedades abstractas de los sonidos del lenguaje y las leyes que rigen su combinatoria.
+La morfología analiza la formación de palabras a partir de elementos menores portadores de sentido. Es el caso típico de los diminutivos (casa, casita; pie, piecito) y de los plurales (menú, menúes; pared, paredes; orca, orcas). Complementariamente, la lexicología estudia el léxico como un sistema, siendo la lexicografía una de sus aplicaciones, la cual se encarga de la compilación y publicación de diccionarios.
+La sintaxis se concentra en el orden de las palabras en la frase, teniendo en cuenta sus límites y la producción de sentido. Por ejemplo, en el caso del español, podemos mencionar las condiciones que producen una oración interrogativa: “Carlos dijo ayer que viene mañana”; “¿Qué dijo Carlos?”; “¿Cuándo dijo Carlos que viene?”; “¿Cuándo lo dijo Carlos?”; “¿Quién dijo que viene mañana?”, las cuales es posible contrastar con la imposible secuencia en “*¿Quién qué cuándo dijo?”.
+La semántica investiga el sentido de las palabras (semántica léxica) y cómo se combinan para producir sentido. Cuando se trata de actos de comunicación y entran en juego tanto el contexto como el conocimiento enciclopédico, entonces hablamos de pragmática.
+El análisis del discurso se focaliza en el uso del lenguaje en conjuntos lingüísticos coherentes mayores que la frase.
+Cada uno de estos niveles es tan vasto que un especialista en Lingüística puede perfectamente dedicar su vida académica al estudio de uno solo de ellos.
+
+Áreas de trabajo del lingüista
+Las investigaciones lingüísticas arrojan resultados que pueden ser utilizados en áreas muy diversas: adquisición de una segunda lengua, traducción, edición, logopedia, procesamiento automático del lenguaje. Es frecuente que los lingüistas trabajen en equipos multidisciplinarios en investigación, definición de políticas lingüísticas, educación, planificación lingüística o desarrollo de sistemas lingüísticos computacionales para hospitales o sistemas de navegación. Debido a su pluridisciplinariedad, la persona especializada en Lingüística tiene a su disposición un horizonte profesional bastante amplio, como, por ejemplo, las siguientes áreas:
+
+Asesoría lingüística (redacción, documentación, edición, pruebas periciales en contextos jurídicos, economía de la lengua).
+Concepción y creación de material pedagógico de lenguas.
+Docencia en primaria y secundaria.Automate-impair
+Enseñanza de lenguas.
+Lexicografía.
+Logopedia y ortofonía.
+Planificación y política lingüística.
+Procesamiento automático del lenguaje (síntesis de la voz, traducción automática, minería de datos, tecnologías de la enseñanza y de la comunicación).
+Publicidad.
+Traducción.
+Según el Manual de Especialidades Docentes, instrumento técnico del Servicio Civil y del MEP, la Maestría en Lingüística está declarada como atinente a la Especialidad Lingüística. Con oficio CD-0774-2001 de fecha 27 de junio del 2001 la Maestría en Lingüística fue incorporada al Servicio Civil y está indicado que, para los efectos del Escalafón Docente, si un graduado de este Posgrado se incorpora con un Bachillerato sin estudios pedagógicos, se le asigna un MT-2 y si lo hace con un Bachillerato en la Enseñanza, específico o afín a la especialidad Español, se le asigna un MT-5.
+
+En el proceso de autoevaluación del 2008, se estimó que los graduados de nuestro programa se desempeñan, principalmente, en las siguientes áreas: Actividades de investigación, desarrollo e innovación; docencia (mayoritariamente); consultorías; cargos directivos y difusión cultural.
+
+El perfil profesional del lingüista
+En el proceso de autoevalución de 2013 del Programa de Posgrado en Lingüística, el perfil del lingüista fue definido de la manera siguiente:
+
+El profesional en Lingüística está en capacidad de describir, analizar e interpretar datos de cualquier lengua, en todos sus niveles (fonético-fonológico, morfosintáctico y semántico), mediante la aplicación de diversas teorías y métodos. Además, sus conocimientos le permiten relacionar la lengua con sus dimensiones cognitiva y sociocultural. El lingüista puede especializarse en alguno de los niveles de la lengua, en subcampos de la disciplina (como criollística, lexicografía o lingüística educativa) o en áreas en las que la Lingüística interactúa con otras ciencias (como sociolingüística, psicolingüística y lingüística computacional).
